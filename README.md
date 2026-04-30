@@ -11,7 +11,8 @@ To write a program to predict the profit of a city using the linear regression m
 1. 
 2. 
 3. 
-4. 
+
+
 
 ## Program:
 ```
